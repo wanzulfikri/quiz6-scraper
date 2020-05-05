@@ -1,3 +1,5 @@
-SoftwareTestingGenius ISTQB Foundation question and answer bank. Scraped => Not pretty but good enough.
+SoftwareTestingGenius ISTQB Foundation question and answer bank. 
 
-Questions and answers are in the vault.
+Scraped => Not pretty but good enough.
+
+**_Questions and answers are in the vault._**
