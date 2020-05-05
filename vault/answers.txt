@@ -1,4 +1,259 @@
 
+Q. 1
+D
+
+
+Q. 2
+C
+
+
+Q. 3
+A
+
+
+Q. 4
+A
+
+
+Q. 5
+D
+
+
+Q. 6
+B
+
+
+Q. 7
+A
+
+
+Q. 8
+C
+
+
+Q. 9
+A
+
+
+Q. 10
+B
+
+
+
+Rule 1
+Rule 2
+Rule3
+Rule 4
+
+
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+
+
+Conditions
+
+
+
+
+
+
+Age
+<21 yrs
+21-29 yrs
+30-50yrs
+> 50yrs
+
+
+Insurance
+Class
+A
+A or B
+B. C or D
+C or D
+
+
+Actions
+
+
+
+
+
+
+Premium
+�100
+�90
+�70
+�70
+
+
+Excess
+�2,500
+�2,500
+�500
+�1000
+
+
+Q. 11
+D
+
+
+Q. 12
+D
+
+
+Q. 13
+C
+
+
+Q. 14
+D
+
+
+Q. 15
+B
+
+
+Q. 16
+B
+
+
+Q. 17
+C
+
+
+Q. 18
+C
+
+
+Q. 19
+A
+
+
+Q. 20
+A
+
+
+Q. 21
+A
+
+
+Q. 22
+A
+
+
+Q. 23
+B
+
+
+Q. 24
+A
+
+
+Q. 25
+D
+
+
+Q. 26
+B
+
+
+Q. 27
+C
+
+
+Q. 28
+A
+
+
+Q. 29
+A
+
+
+Q. 30
+B
+
+
+Q. 31
+C
+
+
+Q. 32
+B
+
+
+Q. 33
+A
+
+
+Q. 34
+A
+
+
+Q. 35
+D
+
+
+Q. 36
+D
+
+
+Q. 37
+B
+
+
+Q. 38
+C
+
+
+Q. 39
+A
+
+
+Q. 40
+C
+
+
+Q. 41
+B
+
+
+Q. 42
+A
+
+
+Q. 43
+D
+
+
+Q. 44
+A
+
+
+Q. 45
+B
+
+
+Q. 46
+D
+
+
+Q. 47
+E
+
+
+Q. 48
+A
+
+
+Q. 49
+A
+
+
+Q. 50
+A
+
+
 Q. 51
 D
 

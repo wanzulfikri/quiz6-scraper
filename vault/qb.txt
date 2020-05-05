@@ -1,3 +1,497 @@
+Largest Databank of Sample Questions to prepare for ISTQB (CTFL) Foundation Level Certification Exam
+The Questions Databank is divided into Three Parts:
+
+Download Link for the set of 25 Questions
+Q. 1: How   many   test   cases   are   required   to   cover   100%  0 – switch   coverage   respectively   from   X2?
+Exhibit:
+ 
+
+A. 4
+B. 1
+C. 3
+D. 2
+<<<<<< =================== >>>>>>
+Q. 2:  From   a   Testing   perspective,   what   are   the   MAIN   purposes   of   Configuration   Management?:
+
+i) Identifying   the   version   of   software   under   test.
+ii) Controlling   the   version   of   testware   items.
+iii) Developing   new   testware  items.
+iv) Tracking   changes   to   testw  are   items.
+v) Analysing   the   need   for   new   testware   items.
+ 
+A. ii,   iv   and   v.
+B. ii,   iii   and   iv,
+C. i,   ii   and   iv.
+D. i,   iii   and   v.
+<<<<<< =================== >>>>>>
+Q. 3:  Which   of   the   following   is   a   MAJOR   task   of   test   planning?
+
+A. Scheduling   test   analysis   and   design   tasks.
+B. Initiating   corrective   actions.
+C. Monitoring   progress   and   test   coverage.
+D. Measuring   and   analyzing   results.
+<<<<<< =================== >>>>>>
+Q. 4:  Based   on   the   IEEE   Standard   for   Software   Test   Documentation   (IEEE   Std   829 – 1998),   which  of   the    following   sections   are   part   of   the   test   summary   report?
+a)  Summary
+b)  Test   incident   report   identifier
+c)  Test   deliverables
+d)  Risks   and   contingencies
+e)  Variances
+f)  Approvals
+g)  Output   specifications
+A. a,   e  and   f
+B. a,   c   and   d
+C. a,   b   and   f
+D. a,   d   and   e
+<<<<<< =================== >>>>>>
+
+Q. 5:  Which   is   a   potential   product   risk   factor?
+A. Failure   of   third   party   vendor
+B. Training   issues
+C. Problems   requirements   definition
+D. Poor   software   functionality
+<<<<<< =================== >>>>>>
+Q. 6:  Who   typically   use   static   analysis   tools?
+A. Customers   and   users
+B. Developers   and   designers
+C. Business   and   systems   analysts
+D. System   and   acceptance   testers
+<<<<<< =================== >>>>>>
+Q. 7:  Who   would   USUALLY   perform   debugging   activities?
+
+A. Developers.
+B. Analysts.
+C. Testers.
+D. Incident   Managers.
+<<<<<< =================== >>>>>>
+Q. 8:  Which  of  the  following  would  you  NOT  usually  find  on  a  software   incident   report?
+A. The   name   and  /  or   organisational   position   of   the   person   raising   the   problem.
+B. Version   of   the   Software   Under   Test.
+C. Suggestions   as   to   how   to   fix   the   problem.
+D. Actual   and   expected   results.
+<<<<<< =================== >>>>>>
+Q. 9:  Which   of   the   following   defines   the   expected   results   of   a   test?
+A. Test   case   specification.
+B. Test   design   specification.
+C. Test   procedure   specification.
+D. Test   results.
+<<<<<< =================== >>>>>>
+Q. 10:  Some   tools   are   geared   more   for   developer   use.   For   the   5  tools   listed,   which   statement   BEST   details   those   for   developers
+i)  Performance   testing   tools.
+ii)  Coverage   measurement   tools.
+iii)  Test   comparators.
+iv)  Dynamic   analysis   tools.
+v)  Incident   management   tools.
+A.  i,   iii.  and  iv.  are  more   for   developers.
+B.  ii.  and iv.  are   more   for   developers.
+C.  ii,  iii   and  iv.  are  more   for   developers.
+D.  ii.   and   iii.  are   more  for   developers.
+Q. 11: Which of the following is correct?
+
+A. Impact analysis assesses the effect on the system of a defect found in regression testing.
+B. Impact analysis assesses the effect of a new person joining the regression test team.
+C. Impact analysis assesses whether or not a defect found in regression testing has been fixed correctly.
+D. Impact analysis assesses the effect of a change to the system to determine how much regression testing to do.
+ 
+<<<<<< =================== >>>>>>
+Q. 12: In  software  testing  what is  the  main  purpose  of  exit  criteria?
+
+A. To enhance the security of the system
+B. To prevent the endless loops in code.
+C. To swerve as an alternative or “Plan-B”
+D. To define when to stop testing
+<<<<<< =================== >>>>>>
+Q. 13: Given the following state transition diagram Which of the following series of state transitions contains an INVALID transition which may indicate a fault in the system design?
+
+Exhibit:
+
+
+A. Login Browse Basket Checkout Basket Checkout Pay Logout.
+B. Login Browse Basket Checkout Pay Logout.
+C. Login Browse Basket Checkout Basket Logout.
+D. Login Browse Basket Browse Basket Checkout Pay Logout.
+<<<<<< =================== >>>>>>
+Q. 14: Which  of the  following is a  KEY  test  closure  task?
+A. Ensuring  proper  environment  setup
+B. Writing a  test summary  report
+C. Assessing  the need for additional tests
+D. Finalizing  and  archiving  testware.
+<<<<<< =================== >>>>>>
+Q. 15: What is beta testing?
+A. Testing performed by potential customers at the developers location.
+B. Testing performed by potential customers at their own locations.
+C. Testing performed by product developers at the customer’s location.
+D. Testing performed by product developers at their own locations.
+<<<<<< =================== >>>>>>
+Q. 16: Given the following fragment of code, how many tests are required for 100% decision coverage?
+if width > length
+then
+biggest_dimension = width
+if height > width
+then
+biggest_dimension = height
+end_if
+else
+biggest_dimension = length
+if height > length
+then
+biggest_dimension = height
+end_if
+end_if
+A. 3
+B. 4
+C. 2
+D. 1
+<<<<<< =================== >>>>>>
+Q. 17: You have designed test cases to provide 100% statement and 100% decision coverage for the following fragment of code.
+if width > length
+then
+biggest_dimension = width
+else
+biggest_dimension = length
+end_if
+
+The following has been added to the bottom of the code fragment above.
+print “Biggest dimension is ” & biggest_dimension
+print “Width: ” & width
+print “Length: ” & length 
+How many more test cases are required?
+A. One more test case will be required for 100 % decision coverage.
+B. Two more test cases will be required for 100 % statement coverage, one of which will be used to provide 100% decision coverage.
+C. None, existing test cases can be used.
+D. One more test case will be required for 100″ statement coverage.
+<<<<<< =================== >>>>>>
+Q. 18: Which  defects are  OFTEN  much  cheaper  to  remove?
+A. Usability  defects  found by  customers
+B. Defects in  infrequently  used  functionality
+C. Defects  that were detected  early
+D. Minor  defects  that were  found by  users
+<<<<<< =================== >>>>>>
+Q. 19: Which activity in the fundamental test process creates test suites for efficient test execution?
+A. Implementation and execution.
+B. Planning and control.
+C. Analysis and design.
+D. Test closure.
+<<<<<< =================== >>>>>>
+Q. 20: Which of the following is TRUE?
+A. Confirmation testing is testing fixes to a set of defects and Regression testing is testing to establish whether any defects have been introduced as a result of changes.
+B. Confirmation testing is testing to establish whether any defects have been introduced as a result of changes and Regression testing is testing fixes to a set of defects.
+C. Confirmation testing and Regression testing are both testing to establish whether any defects have been introduced as a result of changes.
+D. Confirmation testing and Regression testing are both testing fixes to a set of defects.
+Q. 21: Given the following decision table: Which of the following test cases and expected results is VALID?
+A. 23 year old in insurance class A Premium is 90 and excess is 2,500.
+B. 51 year old in insurance class C Premium is 70 and excess is 500.
+C. 31 year old in insurance class B Premium is 90 and excess is 2,500.
+D. 43 year old in insurance class C Premium is 70 and excess is 1,000.
+<<<<<< =================== >>>>>>
+Q. 22: When should configuration management procedures be implemented?
+A. During test planning.
+B. During test analysis.
+C. During test execution.
+D. When evaluating exit criteria
+<<<<<< =================== >>>>>>
+Q. 23: Which of the following are characteristic of regression testing ?
+
+i) Regression testing is run ONLY once
+ii) Regression testing is used after fixes have been made
+iii) Regression testing is often automated
+iv) Regression tests need not be maintained
+Options:
+
+A. ii, iv.
+B. ii, iii.
+C. i, iii, iv.
+D. iii.
+<<<<<< =================== >>>>>>
+Q. 24: Which of  the  problems  below  BEST  characterize  a  result of  software  failure?
+A. Damaged  reputation
+B. Lack  of  methodology
+C. Inadequate  training
+D. Regulatory  compliance
+<<<<<< =================== >>>>>>
+Q. 25: Which of the following activities should be performed during the selection and implementation of a testing tool?
+
+i) Investigate the organisation’s test process.
+ii) Conduct a proof of concept.
+iii) Implement the selected tool on a project behind schedule to save time.
+iv) Identify coaching and mentoring requirements for the use of the selected tool.
+Options:
+
+A. i, ii, iii.
+B. ii, iii, iv.
+C. i, iii, iv.
+D. i, ii, iv.
+
+<<<<<< =================== >>>>>>
+ 
+Q. 26: What is the MAIN benefit of designing tests early in the life cycle?
+
+A. It is cheaper than designing tests during the test phases.
+B. It helps prevent defects from being introduced into the code.
+C. Tests designed early are more effective than tests designed later.
+D. It saves time during the testing phases when testers are busy.
+<<<<<< =================== >>>>>>
+Q. 27: Which of the following benefits are MOST likely to be achieved by using test tools?
+
+i) Easy to access information about tests and testing.
+ii) Reduced maintenance of testware.
+iii) Easy and cheap to implement.
+iv) Greater consistency of tests.
+Options:
+
+A. ii and iv
+B. ii and iii
+C. i and iv
+D. i and iii
+<<<<<< =================== >>>>>>
+Q. 28: Which  of  the  following  can be  considered  as  success  factors  when  deploying a  new  tool in  an  organization?
+A. Providing  coaching to  users and  defining usage  guidelines
+B. Monitoring  tool usage  and  reducing the need for  risk  analysis
+C. Improving  processes  and  focusing  more on  component  testing
+D. Assessing  testing  completion  and  minimizing  code  reviews
+<<<<<< =================== >>>>>>
+Q. 29: What is the purpose of exit criteria?
+
+A. To define when a test level is complete.
+B. To determine when a test has completed.
+C. To identify when a software system should be retired.
+D. To determine whether a test has passed.
+<<<<<< =================== >>>>>>
+Q. 30: Which  test  design  technique  relies  heavily  on prior  thorough  knowledge  of the  system?
+A. Data  driven  testing technique
+B. Experience-based  technique
+C. White-box  technique
+D. Structure-based  technique
+ 
+A. Tool support for performance and monitoring.
+B. Tool support for static testing.
+C. Tool support for test execution and logging.
+D. Tool support for the management of testing and tests.
+<<<<<< =================== >>>>>>
+ 
+Q. 32: Which activities form part of test planning?
+
+i) Developing test cases.
+ii) Defining the overall approach to testing.
+iii) Assigning resources.
+iv) Building the test environment
+v) Writing test conditions.
+A. i, ii & iv are true, iii & v are false.
+B. ii & iii are true, i, iv & v are false.
+C. iv & v are true, i, ii & iii are false.
+D. i, ii & iii are true iv & v are false.
+<<<<<< =================== >>>>>>
+Q. 33: Match the following terms and statements.
+
+1.Decision Table Testing
+2.Decision Testing
+3.State Transition Testing
+4.Exploratory Testing
+W. Testing carried out w boxes to achieve specific test objectives, possibly to complement structured testing.
+X. A test technique used which may be used to verify different system re depending on current conditions or previous history.
+Y. A test technique which combines combinations of inputs that might not otherwise have been exercised during testing.
+Z. A form of control flow testing based on decision outcomes.
+Options:
+A. 1Y, 2Z, 3X, 4W.
+B. 1X ,2W, 3Z, 4Y.
+C. 1Z, 2X, 3W, 4Y.
+D. 1Z, 2Y, 3X, 4W.
+<<<<<< =================== >>>>>>
+Q. 34: Which type of test design techniques does the following statement best describe a procedure to derive test cases based on the specification of a component?
+A. Black Box Techniques.
+B. White Box Techniques.
+C. Glass Box Techniques.
+D. Experience Based Techniques.
+<<<<<< =================== >>>>>>
+Q. 35: For which of the following would a static analysis tool be MOST useful?
+A. Supporting reviews.
+B. Validating models of the software.
+C. Testing code executed in a special test harness.
+D. Enforcement of coding standards.
+<<<<<< =================== >>>>>>
+Q. 36: Which  test  approaches  or  strategies  are  characterized  by the  descriptions  below?
+
+S. Process-compliant  approaches
+T. Heuristic  approaches
+U. Consultative  approaches
+V. Regression-averse  approaches
+
+1. Includes  reuse of  existing  test  material
+2. Listens  to suggestions from  technology  experts
+3. Adheres  to industry-specific  standards
+4. Runs test  execution  and  evaluation  concurrently
+A. S4, T3, U2, V1
+B. S1, T2, U3, V4
+C. S2, T3, U1, V4
+D. S3, T4, U2, V1
+<<<<<< =================== >>>>>>
+Q. 37: What  principle is  BEST  described  when  test  designs  are  written  by a third party?
+A. Exploratory  testing
+B. Independent  testing
+C. Integration  testing
+D. Interoperability  testing
+<<<<<< =================== >>>>>>
+Q. 38: Which of the following is a benefit of test independence?
+A. It does not require familiarity with the code.
+B. It is cheaper than using developers to test their own code.
+C. It avoids author bias in defining effective tests.
+D. Testers are better at finding defects than developers.
+<<<<<< =================== >>>>>>
+Q. 39: The above diagram represents the following paths through the code.
+A. vwy
+B. vwz
+C. vxy
+D. vxz
+What is the MINIMUM combination of paths required to provide full statement coverage?
+Exhibit:
+
+
+A. A
+B. ABD
+C. ABCD
+D. ACD
+<<<<<< =================== >>>>>>
+Q. 40: Which of the following is MOST characteristic of specification based (black-box) techniques?
+A. Test cases can be easily automated.
+B. Test cases are independent of each other.
+C. Test cases are derived systematically from models of the system .
+D. Test cases are derived systematically from the delivered code.
+ 
+Q. 41: Which of the following combinations correctly describes a valid approach to component testing:
+i) Functional testing of the component in isolation.
+ii) Structure-based testing of the code without recording incidents.
+iii) Automated tests that are run until the component passes.
+iv) Functional testing of the interfaces between modules.
+A. i and ii.
+B. I, ii and iii
+C. iii.
+D. ii and iv
+
+<<<<<< =================== >>>>>>
+Q. 42: Which  of  the  following  is a  KEY  test  control  task?
+A. Initiating  corrective  actions
+B. Determining  the  scope
+C. Implementing  the  test  policy
+D. Scheduling  test  implementation
+<<<<<< =================== >>>>>>
+Q. 43: What is the  name of a  skeletal  implementation  of a  software  component  that  is  used for  testing?
+A. Use  case
+B. Domain
+C. Driver
+D. Stub
+<<<<<< =================== >>>>>>
+Q. 44: Which is the best definition of complete testing:
+A. You have discovered every bug in the program.
+B. You have tested every statement, branch, and combination of branches in the program.
+C. You have completed every test in the test plan.
+D. You have reached the scheduled ship date.
+<<<<<< =================== >>>>>>
+Q. 45: Complete statement and branch coverage means:
+A. That you have tested every statement in the program.
+B. That you have tested every statement and every branch in the program.
+C. That you have tested every IF statement in the program.
+D. That you have tested every combination of values of IF statements in the program
+<<<<<< =================== >>>>>>
+Q. 46: There are several risks of managing your project’s schedule with a statistical reliability model. These include (choose one or more of the following):
+A. Testers spend more energy early in the product trying to find bugs than preparing to do the rest of the project’s work more efficiently
+B. Managers might not realize that the testing effort is ineffective, late in the project, because they expect a low rate of bug finding, so the low rate achieved doesn’t alarm them.
+C. It can increase the end-of-project pressure on testers to not find bugs, or to not report bugs.
+D. All of the above
+<<<<<< =================== >>>>>>
+Q. 47: Typical defects that are easier to find in reviews than in dynamic testing are:
+A. Deviations from standards,
+B. Requirement defects,
+C. Design defects,
+D. Insufficient maintainability and incorrect interface specifications.
+E. All of the above.
+<<<<<< =================== >>>>>>
+Q. 48: Reviews, static analysis and dynamic testing have the same objective
+A. Identifying defects.
+B. Fixing defects.
+C. A. and B
+D. None of the above
+<<<<<< =================== >>>>>>
+Q. 49: What  techniques  would  be  MOST  appropriate if  the  specifications  are  outdated?
+A. Structure-based  and  experienced-based  techniques
+B. Black-box  and  specification-based  techniques
+C. Specification-based  and structure-based  techniques
+D. Structure-based  technique and  exhaustive  testing
+<<<<<< =================== >>>>>>
+Q. 50: Measurement dysfunction is a problem because:
+A. Even though the numbers you look at appear better, to achieve these numbers, people are doing other aspects of their work much less well.
+B. We don’t know how to measure a variable (our measurement is dysfunctional) and so we don’t know how to interpret the result.
+C. You are measuring the wrong thing and thus reaching the wrong conclusions.
+D. All of the above.
+ 
+A. We can never be certain that the program is bug free.
+B. We have no definite stopping point for testing, which makes it easier for some managers to argue for very little testing.
+C. We have no easy answer for what testing tasks should always be required, because every task takes time that could be spent on other high importance tasks.
+D. All of the above.
+<<<<<< =================== >>>>>>
+Q. 52: Poor software characteristics are
+A. Only Project risks
+B. Only Product risks
+C. Project risks and Product risks
+D. Project risks or Product risks
+<<<<<< =================== >>>>>>
+Q. 53: System testing should investigate
+A. Non-functional requirements only not Functional requirements
+B. Functional requirements only not non-functional requirements
+C. Non-functional requirements and Functional requirements
+D. Non-functional requirements or Functional requirements
+<<<<<< =================== >>>>>>
+Q. 54: Contract and regulation testing is a part of
+A. System testing
+B. Acceptance testing
+C. Integration testing
+D. Smoke testing
+<<<<<< =================== >>>>>>
+Q. 55: Find the correct flow of the phases of a formal review
+A. Planning, Review meeting, Rework, Kick off
+B. Planning, Individual preparation, Kick off, Rework
+C. Planning, Review meeting, Rework, Follow up
+D. Planning, Individual preparation, Follow up, Kick off
+<<<<<< =================== >>>>>>
+Q. 56: Which is not the testing objectives
+A. Finding defects
+B. Gaining confidence about the level of quality and providing information
+C. Preventing defects.
+D. Debugging defects
+<<<<<< =================== >>>>>>
+Q. 57: Which of  the  following is a  KEY  task  of a  tester?
+A. Reviewing  tests  developed by  others
+B. Writing  a test  strategy  for the  project
+C. Deciding  what  should be  automated
+D. Writing  test  summary  reports
+<<<<<< =================== >>>>>>
+Q. 58: Which is not the project risks
+A. Supplier issues
+B. Organization factors
+C. Technical issues
+D. Error-prone software delivered
+<<<<<< =================== >>>>>>
+Q. 59: Which of the following is a potential risk in using test support tools?
+A. Under estimating the effort needed to maintain the test assets
+B. Losing access to important testing information when needed
+C. Relying too much on qualitative and quantitative assessments
+D. Lowering the morale of the test team because of repetition
+<<<<<< =================== >>>>>>
+Q. 60: How  many  test  cases  are  needed  to  achieve 100 %  statement  coverage?
+if ((temperature < 0) or
+(temperature > 100)) {
+alert (“DANGER”);
+if ((speed > 100) and (load <= 50)) {
+speed = 50;
+}
+} else {
+check = false;
+}
+
+A. 5
+B. 4
+C. 2
+D. 3
+ 
 Q. 61: �X� has given a data on a person age, which should be between 1 to 99. Using BVA which is the appropriate one
 A. 0,1,2,99
 B. 1, 99, 100, 98
